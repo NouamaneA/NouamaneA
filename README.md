@@ -7,7 +7,7 @@ PhD Student in Computer Science
 * 🌍  I'm based in Paris
 * 🖥️  See my portfolio at [nouamanearhachoui.com](http://nouamanearhachoui.com)
 * ✉️  You can contact me at [nouamane.arhachoui@lip6.fr](mailto:nouamane.arhachoui@lip6.fr)
-* 🚀  I'm currently working on [$\psi$-score](http://github.com/NouamaneA/psi-score)
+* 🚀  I'm currently working on [Psi-score](http://github.com/NouamaneA/psi-score)
 * 🧠  I'm learning about Graph Algorithms and Graph Machine Learning.
 
 ### Skills
@@ -47,7 +47,7 @@ PhD Student in Computer Science
 
 <b>My GitHub Stats</b>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NouamaneA&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact" alt="Most Used Languages" />
+<a href="http://www.github.com/NouamaneA" align=left><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NouamaneA&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact" alt="Most Used Languages" /></a>
 
 <b>Top Repositories</b>
 
